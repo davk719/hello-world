@@ -1,2 +1,3 @@
 # hello-world
-just a test play area
+first time playing around with git.  
+much different that cvs for version control.
